@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BaranDpp
-- 👀 I’m interested in AI, Game Desing and mobile apps
-- 🌱 I’m currently working on ML, Python, SQL, R 
+- 👀 I’m interested in AI, Data Analyst and Scientist
+- 🌱 I’m currently working on ML, Python, SQL, R , PowerBI , NLP , Web Scrapping
 - 💞️ I’m looking to collaborate on Machine learning and AI research, Mobile app development
 - 📫 How to reach me mail:baranpolat.dev@gmail.com 
 - 😄 Pronouns: He
